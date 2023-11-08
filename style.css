@@ -76,7 +76,7 @@ input[type=reset] {
     padding: 10px 25px 10px 25px;
     border-radius: 25px;
     border: none;
-    background-color: #000;
+    background-color: #cc470d;
     color: #fff;
 }
 
@@ -123,7 +123,7 @@ input[type=reset] {
     width: 50px;
     height: 50px;
     position: absolute;
-    background-color: #e74c3c;
+    background-color: #ff0000;
 }
 
 .Circulo {
@@ -131,7 +131,7 @@ input[type=reset] {
     height: 50px;
     border-radius: 50px;
     position: absolute;
-    background-color: #e74c3c;
+    background-color: #ff0000;
 }
 
 .Top {
