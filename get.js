@@ -61,9 +61,9 @@ function calcular() {
 }
 
 function limpar() {
-    document.getElementById("imc").innerHTML = ""
-    document.getElementById("status").innerHTML = ""
+    document.getElementById("imc").innerHTML = "IMC"
+    document.getElementById("status").innerHTML = "status"
     document.getElementById("freq").innerHTML = "FCM"
     document.getElementById("grafico").src = "icons/reset.png"
-    document.getElementById("calorias").innerHTML = ""
+    document.getElementById("calorias").innerHTML = "calorias"
 }
